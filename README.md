@@ -1,13 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Period & Ovulation Tracker App</title>
-</head>
 <body>
   <h1>Period & Ovulation Tracker App</h1>
   <p>Welcome to the Period & Ovulation Tracker App repository! This repository serves as a gateway to our comprehensive Android app designed to help individuals track their menstrual cycles and ovulation periods seamlessly.</p>
   
-  <img src="https://www.example.com/path/to/your/image.png" alt="Period & Ovulation Tracker App Screenshot" width="600">
+  <img src="https://raw.githubusercontent.com/TheOctalOps/PeriodOvulationTracker/main/PeriodAppThumb.png" alt="Period & Ovulation Tracker App Screenshot" width="600">
 
   <h2>App Overview</h2>
   <p>Tracking menstrual cycles and ovulation periods is crucial for many individuals, and this Android app offers a seamless solution. Our Period & Ovulation Tracker App is designed to run smoothly on Android devices and comes with a range of features that make it both functional and user-friendly. Best of all, we are offering the complete source code for free on our website, OctalOps.</p>
